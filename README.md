@@ -1,0 +1,1 @@
+It's just an idea that doesn't work at the moment. Don't repeat it in practice!
